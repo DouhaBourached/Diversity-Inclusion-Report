@@ -8,21 +8,21 @@ Human Resources at our telecom client is highly committed to diversity and inclu
 
 # Report Structure
 Page 1: Welcome Page
-    Displays key performance indicators (KPIs) related to diversity and inclusion efforts.
-    Provides links to the hiring and promotion/performance dashboards.
+Displays key performance indicators (KPIs) related to diversity and inclusion efforts.
+Provides links to the hiring and promotion/performance dashboards.
 
 Page 2: Hiring Dashboard
-    Allows filtering by gender and region.
-    Presents an overview of total hires, gender distribution, and age group insights.
-    Visualizations include clustered bar charts, stacked area charts, and ribbon charts highlighting departmental gender imbalances.
+Allows filtering by gender and region.
+Presents an overview of total hires, gender distribution, and age group insights.
+Visualizations include clustered bar charts, stacked area charts, and ribbon charts highlighting departmental gender imbalances.
 
 Page 3: Promotion and Performance Dashboard
-    Offers filters for gender and region.
-    Provides insights into promotions, turnover, and performance ratings.
-    Visualizations include clustered column charts, stacked bar charts, and donut charts.
+Offers filters for gender and region.
+Provides insights into promotions, turnover, and performance ratings.
+Visualizations include clustered column charts, stacked bar charts, and donut charts.
 
 # Contributing
 If you have suggestions for improvements or additional insights, feel free to submit a pull request.    
 
 # Acknowledgments
-  Special thanks to PwC Switzerland for providing the data and insights necessary for creating this report.
+Special thanks to PwC Switzerland for providing the data and insights necessary for creating this report.
