@@ -4,7 +4,7 @@ This project is part of the PwC Switzerland virtual internship - Power BI Job Si
 
 # Project Background
 
-Human Resources at our telecom client is highly committed to diversity and inclusion, with a specific focus on improving gender balance at the executive management level. However, progress in this area has been slow. As part of the virtual internship offered by PwC Switzerland, we developed this Power BI report to provide actionable insights and support their efforts in achieving a more inclusive workplace.
+Human Resources at PhoneNow Telecom client is highly committed to diversity and inclusion, with a specific focus on improving gender balance at the executive management level. However, progress in this area has been slow. As part of the virtual internship offered by PwC Switzerland, we developed this Power BI report to provide actionable insights and support their efforts in achieving a more inclusive workplace.
 
 # Report Structure
 P1. Welcome Page:
